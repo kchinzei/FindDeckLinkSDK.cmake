@@ -1,0 +1,12 @@
+.DS_Store
+build*/
+experimental/
+BypassControl/
+Capture/
+CaptureFromTape/
+DeckControl/
+DeviceList/
+ExportToTape/
+in2out/
+OpenGLOutput/
+*~
